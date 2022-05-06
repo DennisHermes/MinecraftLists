@@ -1,4 +1,3 @@
-Stone
 Granite
 Polished Granite
 Diorite
@@ -8,20 +7,17 @@ Polished Andesite
 Grass
 Grass Path
 Mycelium
-Any Dirt
 Dirt
 Coarse Dirt
 Podzol
 Cobblestone
 Mossy Cobblestone
-Any Planks
 Oak Planks
 Spruce Planks
 Birch Planks
 Jungle Planks
 Acacia Planks
 Dark Oak Planks
-Any Sapling
 Oak Sapling
 Spruce Sapling
 Birch Sapling
@@ -30,14 +26,9 @@ Acacia Sapling
 Dark Oak Sapling
 Sugar Cane
 Bedrock
-Any Sand
 Sand
 Red Sand
 Gravel
-Water
-Water Still
-Lava
-Lava Still
 Magma Block
 Obsidian
 Coal Ore
@@ -56,35 +47,27 @@ Gold Block
 Lapis Lazuli Block
 Diamond Block
 Emerald Block
-Any Block of Quartz
 Block of Quartz
 Chiseled Quartz Block
 Pillar Quartz Block
 Slime Block
-Oak/Spruce/Birch/Jungle Wood
 Oak Wood
 Spruce Wood
 Birch Wood
 Jungle Wood
-Acacia/Dark Oak Wood
 Acacia Wood
 Dark Oak Wood
-Oak/Spruce/Birch/Jungle Leaves
 Oak Leaves
 Spruce Leaves
 Birch Leaves
 Jungle Leaves
-Acacia/Dark Leaves
 Acacia Leaves
 Dark Oak Leaves
-Any Sponge
 Sponge
 Wet Sponge
-Any Sandstone
 Sandstone
 Chiseled sandstone
 Smooth sandstone
-Any Red Sandstone
 Red Sandstone
 Chiseled Red Sandstone
 Smooth Red Sandstone
@@ -96,7 +79,6 @@ Activator Rail
 Bed
 Cobweb
 Dead Bush
-Shrub/Tall Grass/Fern
 Shrub
 Tall Grass
 Fern
@@ -105,7 +87,6 @@ Sticky Piston
 Piston Head
 Piston Extension
 Dandelion
-Any Flower
 Poppy
 Blue Orchid
 Allium
@@ -115,7 +96,6 @@ Orange Tulip
 White Tulip
 Pink Tulip
 Oxeye Daisy
-Any Large Flower
 Sunflower
 Lilac
 Rose Bush
@@ -221,7 +201,6 @@ Bone Block
 Nether Wart
 Nether Wart Block
 Cake Block
-Any Stone Bricks
 Stone Bricks
 Mossy Stone Bricks
 Cracked Stone Bricks
@@ -252,14 +231,12 @@ Chorus Plant
 Chorus Flower
 Dragon Egg
 Monster Egg
-Any Wooden Slab
 Oak Slab
 Spruce Slab
 Birch Slab
 Jungle Slab
 Acacia Slab
 Dark Oak Slab
-Any Stone Slab
 Stone Slab
 Sandstone Slab
 Petrified Wooden Slab
@@ -273,20 +250,17 @@ Cocoa Block
 Nether Portal Block
 Anvil
 Beacon
-Any Cobblestone Wall
 Cobblestone Wall
 Mossy Cobblestone Wall
 Flower Pot
 Carrots Plant Block
 Potatoes Plant Block
 Hay Block
-Any Skull
 Skeleton Skull
 Wither Skeleton Skull
 Zombie Head
 Head
 Creeper Head
-Any Wool
 White Wool
 Orange Wool
 Magenta Wool
@@ -337,7 +311,6 @@ Brown Glazed Terracotta
 Green Glazed Terracotta
 Red Glazed Terracotta
 Black Glazed Terracotta
-Any Concrete Powder
 White Concrete Powder
 Orange Concrete Powder
 Magenta Concrete Powder
@@ -354,7 +327,6 @@ Brown Concrete Powder
 Green Concrete Powder
 Red Concrete Powder
 Black Concrete Powder
-Any Concrete
 White Concrete
 Orange Concrete
 Magenta Concrete
@@ -371,7 +343,6 @@ Brown Concrete
 Green Concrete
 Red Concrete
 Black Concrete
-Any Carpet
 White Carpet
 Orange Carpet
 Magenta Carpet
@@ -389,7 +360,6 @@ Green Carpet
 Red Carpet
 Black Carpet
 Glass
-Any Stained Glass
 White Stained Glass
 Orange Stained Glass
 Magenta Stained Glass
@@ -407,7 +377,6 @@ Green Stained Glass
 Red Stained Glass
 Black Stained Glass
 Glass Pane
-Any Stained Glass Pane
 White Stained Glass Pane
 Orange Stained Glass Pane
 Magenta Stained Glass Pane
@@ -425,7 +394,6 @@ Green Stained Glass Pane
 Red Stained Glass Pane
 Black Stained Glass Pane
 Sea Lantern
-Any Prismarine
 Prismarine
 Prismarine Bricks
 Dark Prismarine
@@ -450,11 +418,6 @@ Banner Wall
 Barrier
 Structure Void
 Structure Block
-Structure Block (Data)
-Structure Block (Save)
-Structure Block (Load)
-Structure Block (Corner)
-Any Dye
 Ink Sac
 Rose Red
 Cactus Green
@@ -471,7 +434,6 @@ Light Blue Dye
 Magenta Dye
 Orange Dye
 Bone Meal
-Any Coal
 Coal
 Charcoal
 Iron Ingot
@@ -617,12 +579,10 @@ Bed
 Cookie
 Melon
 Melon Seeds
-Any Fish
 Raw Fish
 Raw Salmon
 Clownfish
 Pufferfish
-Any Cooked Fish
 Cooked Fish
 Cooked Salmon
 Porkchop
@@ -651,7 +611,6 @@ Beetroot Soup
 Ghast Tear
 Nether Wart
 Glass Bottle
-Water Bottle/Any Potion
 Splash Potion
 Lingering Potion
 Dragon's Breath
@@ -663,7 +622,6 @@ Magma Cream
 Brewing Stand
 Cauldron
 Speckled Melon
-Any Spawn Egg
 Spawn Creeper
 Spawn Skeleton
 Spawn Spider
@@ -691,8 +649,7 @@ Spawn Ocelot
 Spawn Horse
 Spawn Rabbit
 Spawn Villager
-Bottle o' Enchanting
-Bottle o' Enchanting
+Bottle o' Enchantin
 Snowball
 Book
 Writable Book
@@ -700,22 +657,5 @@ Written Book
 Enchanted Book
 Knowledge Book
 Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Any Skull
-Skeleton Skull
-Wither Skeleton Skull
-Zombie Head
-Head
-Creeper Head
 Firework Charge
 Fireworks
